@@ -1,4 +1,4 @@
-[![MasterHead](https://qubit-labs.com/wp-content/uploads/2022/09/React-JS-scaled.jpg)](https://sahspeaks.netlify.app)
+[![MasterHead](https://qubit-labs.com/wp-content/uploads/2022/09/React-JS-scaled.jpg)](https://sahspeaks-app.netlify.app)
 
 <h1 align="center">Hi 👋, I'm Sah Abhishek Kumar</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Project_YT & Netflix Clone**
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **React, React-Native**
 
 - 👨‍💻 All of my projects are available at [https://sahspeaks-app.netlify.app/](https://sahspeaks-app.netlify.app/)
 
